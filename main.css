@@ -11,8 +11,7 @@ header{
 	right: 8%;
 	display: inline-block;
 	font-size: 12px;
-	white-space: nowrap;
-	
+	white-space: nowrap;	
 }
 
 .buttons{
@@ -24,7 +23,6 @@ header{
 	text-align: center;
 	font: bold;
 	padding: .5%;
-
 }
 
 .buttons2{
@@ -36,7 +34,6 @@ header{
 	text-align: center;
 	font: bold;
 	padding: .5%;
-
 }
 
 .logo{
@@ -53,7 +50,6 @@ header{
 	width: 20px;
 	padding-left: 93%;
 	padding-top: .5%;
-
 }
 
 
@@ -63,7 +59,6 @@ header{
 	width: 540px;
 	margin: auto;
 	margin-top: 10px;
-
 }
 
 .two{
@@ -74,36 +69,30 @@ header{
 	font-size: 12px;
 	font-weight: bold;
 	color: gray;
-
 }
 
 .search{
 	display: inline-block;
 	margin-top: 25px;
-	margin-left: 40%;
-	
+	margin-left: 40%;	
 }
 
 .lucky{
 	display: inline-block;
 	margin-top: 25px;
 	margin-left: 5%;
-
 }
 
 .you{
 	margin-left: 5%;
-
 }
 
 .gmail{
 	margin-left: 5%;
-
 }
 
 .images{
 	margin-left: 5%;
-
 }
 
 .graph{
@@ -111,7 +100,6 @@ header{
 	margin-top: 5px;
 	height: 30px;
 	width: 30px;
-
 }
 
 .signin{
@@ -124,7 +112,6 @@ header{
 	text-align: center;	
 	font-weight: bold;
 	margin-left: 5%;
-
 }
 
 footer{
@@ -138,31 +125,24 @@ footer{
 	font-size: 14px;
 	white-space: nowrap;
 	color: gray;
-
 }
 
 .advertising{
-	margin-left: 2%;
-	
+	margin-left: 2%;	
 }
 
 .business{
-	margin-left: 2.2%;
-	
+	margin-left: 2.2%;	
 }
 
 .about{
-	margin-left: 2.4%;
-	
+	margin-left: 2.4%;	
 }
  
  .privacy{
- 	padding-left: 65%;
-	
- }
+ 	padding-left: 65%;	
+}
 
  .settings{
  	padding-left: 2%;
- 	
-
- }
+}
